@@ -32,7 +32,7 @@ const Hero = () => {
           
           {/* Text section */}
           <div 
-            className="font-roboto text-[20px] leading-[100%] text-black mb-16" // Changed to mb-16 (64px)
+            className="font-roboto text-[20px] leading-[100%] text-black mb-16"
             style={{ opacity: 0.6 }}
           >
             <p>Hi, I'm Maxime!</p>
@@ -52,7 +52,7 @@ const Hero = () => {
                     <img src={leadership} alt="" className="w-10 h-10" />
                     </div>
                     <h2 
-                    className="font-roboto text-[32px] font-bold text-[#323232] mb-2"
+                    className="font-roboto text-[32px] font-bold text-[#323232] mb-4"
                     style={{
                         width: '262px',
                         height: '56px',
@@ -62,7 +62,7 @@ const Hero = () => {
                     >
                     Leadership Produit
                     </h2>
-                    <p className="mb-4">De l'Ingénierie à CPO : 15+ ans d'expertise produit</p>
+                    <p className="mb-4 font-roboto text-[16px] text-black" style={{ opacity: 0.6 }}>De l'Ingénierie à CPO : 15+ ans d'expertise produit</p>
                     <a href="#" className="text-gray-500">Learn more →</a>
                 </div>
 
@@ -72,7 +72,7 @@ const Hero = () => {
                     <img src={expertise} alt="" className="w-10 h-10" />
                     </div>
                     <h2 
-                    className="font-roboto text-[32px] font-bold text-[#323232]"
+                    className="font-roboto text-[32px] font-bold text-[#323232] mb-4"
                     style={{
                         width: '262px',
                         height: '56px',
@@ -87,8 +87,8 @@ const Hero = () => {
                     >
                     Expertise internationale
                     </h2>
-                    <p className="mb-2">Leadership d'équipes en France et au Japon. Trilingue FR/EN/JP</p>
-                    <a href="#" className="text-gray-500 flex items-center">Learn more →</a>
+                    <p className="mb-4 font-roboto text-[16px] text-black" style={{ opacity: 0.6 }}>Leadership d'équipes en France et au Japon. Trilingue FR/EN/JP</p>
+                    <a href="#" className="text-gray-500">Learn more →</a>
                 </div>
 
                 {/* Formation */}
@@ -97,7 +97,7 @@ const Hero = () => {
                     <img src={advisory} alt="" className="w-10 h-10" />
                     </div>
                     <h2 
-                    className="font-roboto text-[32px] font-bold text-[#323232]"
+                    className="font-roboto text-[32px] font-bold text-[#323232] mb-4"
                     style={{
                         width: '262px',
                         height: '56px',
@@ -112,15 +112,15 @@ const Hero = () => {
                     >
                     Formation & conseil
                     </h2>
-                    <p className="mb-2">Partage d'expertise en stratégie produit et transformation digitale</p>
-                    <a href="#" className="text-gray-500 flex items-center">Learn more →</a>
+                    <p className="mb-4 font-roboto text-[16px] text-black" style={{ opacity: 0.6 }}>Partage d'expertise en stratégie produit et transformation digitale</p>
+                    <a href="#" className="text-gray-500">Learn more →</a>
                 </div>
             </div>
     
             {/* Buttons */}
             <div className="flex gap-4">
                 <button className="px-8 py-3 bg-black text-white rounded">View Portfolio</button>
-                <button className="px-8 py-3 border border-black rounded">Contat</button>
+                <button className="px-8 py-3 border border-black rounded">Contact</button>
             </div>
         </div>
       </div>
