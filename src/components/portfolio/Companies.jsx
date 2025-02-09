@@ -37,9 +37,45 @@ const Companies = () => {
       <div className="max-w-9xl mx-auto px-4 sm:px-6 lg:px-32">
         <div className="flex flex-col items-center text-center mb-12">
           <h2 className="max-w-3xl text-3xl font-bold mb-4">
-            The companies I have worked for or partnered with during my Product Journey
+            <span className="relative z-10">The companies I have{' '}</span>
+            <span className="relative inline-block">
+              <span className="relative z-10">worked for</span>
+              <svg 
+                className="absolute bottom-[0px] left-0 w-full h-auto"
+                width="178" 
+                height="23" 
+                viewBox="0 0 178 23" 
+                fill="none" 
+                xmlns="http://www.w3.org/2000/svg"
+                aria-hidden="true"
+              >
+                <path 
+                  d="M37.7732 2.99978C15.7732 2.99978 0.272666 1.49994 0.273154 8.99978C-0.726846 12.3331 0.473153 19.4998 13.2732 21.4998C26.0732 23.4998 157.273 23.9999 166.273 19.4999C175.273 15.4999 177.773 4.99994 177.773 0C168.773 5.5 65.2732 2.99978 37.7732 2.99978Z" 
+                  fill="#F5DD50"
+                />
+              </svg>
+            </span>
+            <span className="relative z-10">{' '}or{' '}</span>
+            <span className="relative inline-block">
+              <span className="relative z-10">partnered with</span>
+              <svg 
+                className="absolute bottom-[0px] left-0 w-full h-auto"
+                width="244" 
+                height="26" 
+                viewBox="0 0 244 26" 
+                fill="none" 
+                xmlns="http://www.w3.org/2000/svg"
+                aria-hidden="true"
+              >
+                <path 
+                  d="M37.7732 6.49978C15.7732 6.49978 0.272666 4.99994 0.273154 12.4998C-0.726846 15.8331 0.473153 22.9998 13.2732 24.9998C26.0732 26.9998 218.5 26 227.5 21.5C236.5 17.5 244 4.99994 244 0C235 5.5 65.2732 6.49978 37.7732 6.49978Z" 
+                  fill="#F5DD50"
+                />
+              </svg>
+            </span>
+            <span className="relative z-10">{' '}during my Product Journey</span>
           </h2>
-          <p className="text-base">
+          <p className="text-base relative z-10">
             Collaborating with leading global companies and building strong alliances within various B2B industries.
           </p>
         </div>
