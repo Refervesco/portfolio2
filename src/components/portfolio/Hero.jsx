@@ -34,7 +34,7 @@ const Hero = () => {
               I'm an accomplished transformational product leader and advisor (<a href="https://www.truity.com/blog/personality-type/entp" className="underline">ENTP-type</a>), <br className="hidden md:block" />with 18 years of experience in crafting tech products that resonates with users.
             </p>
             <p>
-              I'm passionate guiding and inspiring teams to deliver innovative, user-centric solutions.
+              Advocating for servant leadership, I'm passionate guiding and inspiring teams <br className="hidden md:block" />to deliver innovative, user-centric solutions.
             </p>
           </div>
   
@@ -48,7 +48,7 @@ const Hero = () => {
                   Product Leadership
                 </h2>
                 <p className="mb-4 font-roboto text-[16px] text-black" style={{ opacity: 0.6 }}>
-                  From Engineering to CPO: 15+ years of product expertise including UX and Generative AI.
+                  From Engineering to CPO: 15+ years of product expertise spanning from Product Vision & Strategy, Roadmapping, Discovery & Delivery, UX Design, and full stack engineering including Generative AI.
                 </p>
                 {/*<a href="#" className="text-gray-500">Learn more →</a>*/}
             </div>
@@ -62,7 +62,7 @@ const Hero = () => {
                   International Expertise
                 </h2>
                 <p className="mb-4 font-roboto text-[16px] text-black" style={{ opacity: 0.6 }}>
-                  Team leadership in France and Japan. Trilingual FR/EN/JP.
+                  Team leadership in France and Japan. Trilingual FR/EN/JP. Having lived in numerous countries, let's have a coffee to talk about why Peter Drucker said <i>Culture eats strategy for breakfast</i>.
                 </p>
                 {/*<a href="#" className="text-gray-500">Learn more →</a> -->*/}
             </div>
@@ -75,7 +75,7 @@ const Hero = () => {
                   Advisory & Education
                 </h2>
                 <p className="mb-4 font-roboto text-[16px] text-black" style={{ opacity: 0.6 }}>
-                  Sharing expertise in product strategy and digital transformation.
+                  Sharing expertise in product strategy and digital transformation. This is an area that I'm currently developing, feel free to reach out.
                 </p>
                 {/*<a href="#" className="text-gray-500">Learn more →</a>*/}
             </div>

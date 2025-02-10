@@ -55,7 +55,7 @@ const PortfolioSamples = () => {
         <div className="flex flex-col gap-6">
           <h2 className="text-4xl font-bold">Portfolio sample</h2>
           <p className="text-gray-600">
-            Collaborating with leading global companies and building strong alliances within various B2B industries.
+            Here is a selection of products I have worked on. This list is not exhaustive, more will be added soon.
           </p>
         </div>
 
