@@ -60,7 +60,7 @@ const PortfolioSamples = () => {
             {samples.map((sample, index) => (
               <div
                 key={sample.title}
-                className="flex-shrink-0 flex flex-col w-[380px] min-w-[380px] h-[581px] rounded-xl bg-white transition-all duration-300"
+                className="flex-shrink-0 flex flex-col w-[380px] min-w-[340px] h-[581px] rounded-xl bg-white transition-all duration-300"
                 style={{
                   transform: `translateX(-${currentIndex * 406}px)`,
                   boxShadow: '0px 0px 12px 0px rgba(0, 0, 0, 0.25)'
