@@ -11,7 +11,6 @@ const TopMenu = () => {
   const languageMenuRef = useRef(null);
   const mobileMenuRef = useRef(null);
 
-  // Handle click outside for language menu
   useEffect(() => {
     const handleClickOutside = (event) => {
       if (languageMenuRef.current && !languageMenuRef.current.contains(event.target)) {
@@ -31,7 +30,6 @@ const TopMenu = () => {
   const menuItems = [
     { text: 'Home', href: '#' },
     { text: 'Portfolio', href: '#portfolio' },
-    //{ text: 'About', href: '#' },
     { text: 'Contact', href: 'https://www.linkedin.com/in/maxime-vonthron' }
   ];
 
@@ -40,18 +38,16 @@ const TopMenu = () => {
       <div className="max-w-[1920px] h-full mx-auto">
         <div className="w-full h-full px-4 md:px-8">
           <div className="flex justify-between items-center h-full">
-            {/* Logo section */}
-            <div className="flex items-center">
+            {/* Logo and Desktop Navigation */}
+            <div className="flex items-center gap-8">
               <img 
                 src={logo} 
-                alt="A Slice of Cheese" 
-                className="w-[190px] h-[33px]"
+                alt="Logo" 
+                className="w-7 h-auto"
               />
-            </div>
-            
-            {/* Desktop Navigation and Flag section */}
-            <div className="hidden md:flex items-center">
-              <nav className="flex gap-8 mr-8">
+              
+              {/* Desktop Navigation */}
+              <nav className="hidden md:flex gap-8">
                 {menuItems.map((item) => (
                   <a 
                     key={item.text}
@@ -63,10 +59,12 @@ const TopMenu = () => {
                   </a>
                 ))}
               </nav>
-              
+            </div>
+            
+            {/* Desktop Language Switcher */}
+            <div className="hidden md:flex items-center">
               <div className="w-px h-5 bg-black/20 mx-8"></div>
               
-              {/* Language Switcher */}
               <div className="flex items-center" ref={languageMenuRef}>
                 <div 
                   className="flex gap-2 transition-all duration-300 ease-in-out overflow-hidden"
@@ -82,8 +80,7 @@ const TopMenu = () => {
                     <img src={frflag} alt="Switch to French" className="w-6 h-6" />
                   </button>
                 </div>
-                  {/*<button onClick={() => setIsLanguageOpen(!isLanguageOpen)} className="flex-shrink-0">   This is the normal line when language switched is activated*/}
-                  <button onClick={() => setIsLanguageOpen(isLanguageOpen)} className="flex-shrink-0">
+                <button onClick={() => setIsLanguageOpen(!isLanguageOpen)} className="flex-shrink-0">
                   <img src={enflag} alt="Current Language" className="w-6 h-6" />
                 </button>
               </div>
@@ -93,8 +90,7 @@ const TopMenu = () => {
             <div className="md:hidden flex items-center gap-4" ref={mobileMenuRef}>
               {/* Language Switcher for Mobile */}
               <div className="flex items-center">
-                {/*<button onClick={() => setIsLanguageOpen(!isLanguageOpen)} className="flex-shrink-0">   This is the normal line when language switched is activated*/}
-                <button onClick={() => setIsLanguageOpen(isLanguageOpen)} className="flex-shrink-0">
+                <button onClick={() => setIsLanguageOpen(!isLanguageOpen)} className="flex-shrink-0">
                   <img src={enflag} alt="Current Language" className="w-6 h-6" />
                 </button>
               </div>
@@ -128,7 +124,7 @@ const TopMenu = () => {
                         <img src={jaflag} alt="Switch to Japanese" className="w-6 h-6" />
                       </button>
                       <button className="flex-shrink-0">
-                        <img src={enflag} alt="Switch to English" className="w-6 h-6" />
+                        <img src={frflag} alt="Switch to French" className="w-6 h-6" />
                       </button>
                     </div>
                   )}

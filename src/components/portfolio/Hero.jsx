@@ -17,14 +17,12 @@ const Hero = () => {
         />
         
         <div className="relative z-10 max-w-[1440px] mx-auto px-4 md:px-[60px] py-[60px] flex flex-col min-h-[756px]">
-          {/* Title - Made responsive */}
           <h1 
             className="font-roboto text-[32px] md:text-[48px] font-bold leading-[120%] text-[#111212] text-left mb-8 max-w-full md:max-w-[850px]"
           >
             Product Leadership & Innovation
           </h1>
           
-          {/* Text section */}
           <div 
             className="font-roboto text-[20px] leading-[100%] text-black mb-16"
             style={{ opacity: 0.6 }}
@@ -38,50 +36,59 @@ const Hero = () => {
             </p>
           </div>
   
-          {/* Three sections - Made responsive */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-[32px] mb-16">
-            {/* Each section - Width adjusts for mobile */}
             <div className="w-full md:w-[262px]">
                 <h2 
                   className="font-roboto text-[24px] md:text-[32px] font-bold text-[#323232] mb-4 leading-tight"
                 >
                   Product Leadership
                 </h2>
-                <p className="mb-4 font-roboto text-[16px] text-black" style={{ opacity: 0.6 }}>
+                <p className="font-roboto text-black leading-[18px]" 
+                   style={{ 
+                     fontSize: '16px',
+                     fontFeatureSettings: "'liga' off, 'clig' off",
+                     fontWeight: 400,
+                     opacity: 0.6
+                   }}>
                   From Engineering to CPO: 15+ years of product expertise spanning from Product Vision & Strategy, Roadmapping, Discovery & Delivery, UX Design, and full stack engineering including Generative AI.
                 </p>
-                {/*<a href="#" className="text-gray-500">Learn more →</a>*/}
             </div>
             
-
-            {/* Expertise */}
             <div className="w-full md:w-[262px]">
                 <h2 
                   className="font-roboto text-[24px] md:text-[32px] font-bold text-[#323232] mb-4 leading-tight"
                 >
                   International Expertise
                 </h2>
-                <p className="mb-4 font-roboto text-[16px] text-black" style={{ opacity: 0.6 }}>
+                <p className="font-roboto text-black leading-[18px]"
+                   style={{ 
+                     fontSize: '16px',
+                     fontFeatureSettings: "'liga' off, 'clig' off",
+                     fontWeight: 400,
+                     opacity: 0.6
+                   }}>
                   Team leadership in France and Japan. Trilingual FR/EN/JP. Having lived in numerous countries, let's have a coffee to talk about why Peter Drucker said <i>Culture eats strategy for breakfast</i>.
                 </p>
-                {/*<a href="#" className="text-gray-500">Learn more →</a> -->*/}
             </div>
 
-            {/* Formation */}
             <div className="w-full md:w-[262px]">
                 <h2 
                   className="font-roboto text-[24px] md:text-[32px] font-bold text-[#323232] mb-4 leading-tight"
                 >
                   Advisory & Education
                 </h2>
-                <p className="mb-4 font-roboto text-[16px] text-black" style={{ opacity: 0.6 }}>
+                <p className="font-roboto text-black leading-[18px]"
+                   style={{ 
+                     fontSize: '16px',
+                     fontFeatureSettings: "'liga' off, 'clig' off",
+                     fontWeight: 400,
+                     opacity: 0.6
+                   }}>
                   Sharing expertise in product strategy and digital transformation. This is an area that I'm currently developing, feel free to reach out.
                 </p>
-                {/*<a href="#" className="text-gray-500">Learn more →</a>*/}
             </div>
           </div>
     
-          {/* Buttons - Made responsive */}
           <div className="flex flex-col sm:flex-row gap-4">
             <a href="#portfolio" className="w-full sm:w-auto px-8 py-3 bg-black text-white rounded text-center">View Portfolio</a>
             <a href="https://www.linkedin.com/in/maxime-vonthron" className="w-full sm:w-auto px-8 py-3 border border-black rounded text-center">Contact</a>
