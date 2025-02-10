@@ -76,7 +76,7 @@ const Companies = () => {
             <span className="relative z-10">{' '}during my Product Journey</span>
           </h2>
           <p className="text-base relative z-10">
-            Collaborating with leading global companies and building strong alliances within various B2B industries.
+            Here is a selection of products I have worked on during my career, collaborating with leading global companies within various B2B industries. This list is not exhaustive, more will be added soon.
           </p>
         </div>
 
