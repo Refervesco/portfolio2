@@ -15,25 +15,25 @@ const PortfolioSamples = () => {
       title: 'Sony XCI-NPR',
       category: 'Semiconductors',
       image: sonyImage,
-      description: 'Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est velitolm.'
+      description: 'The Sony XCI-NPR is a B2B highly integrated AI camera system, designed for Access Control applications.'
     },
     {
       title: 'Honda Roadsync',
       category: 'Mobility',
       image: hondaImage,
-      description: 'Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est velitolm.'
+      description: 'Crafted the next generation of connected mobility for Honda. Designing, building & running B2C apps, IoT and SaaS for Honda.'
     },
     {
       title: 'Webex by NTT',
-      category: 'Cloud conferencing',
+      category: 'Conferencing',
       image: webexImage,
-      description: 'Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est velitolm.'
+      description: 'Software as a Service and Cloud Conferencing products in the UCaaS industry.'
     },
     {
-      title: 'Hospital Project',
-      category: 'Healthcare',
+      title: 'Hospitality Tracker',
+      category: 'Web SaaS',
       image: hospitalityImage,
-      description: 'Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est velitolm.'
+      description: 'The d-edge hospitality tracker showcase the room booking trends of the hospitality sector in europe.'
     }
   ];
 
@@ -60,7 +60,7 @@ const PortfolioSamples = () => {
             {samples.map((sample, index) => (
               <div
                 key={sample.title}
-                className="flex-shrink-0 flex flex-col w-[380px] min-w-[340px] h-[581px] rounded-xl bg-white transition-all duration-300"
+                className="flex-shrink-0 flex flex-col w-[360px] min-w-[360px] h-[524px] rounded-xl bg-white transition-all duration-300"
                 style={{
                   transform: `translateX(-${currentIndex * 406}px)`,
                   boxShadow: '0px 0px 12px 0px rgba(0, 0, 0, 0.25)'
