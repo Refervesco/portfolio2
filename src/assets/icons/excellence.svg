@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group-22" transform="translate(1 1)">
+    <g id="Group-14-Copy-4">
+      <path d="M0 40C0 17.9086 17.9086 0 40 0C62.0914 0 80 17.9086 80 40C80 62.0914 62.0914 80 40 80C17.9086 80 0 62.0914 0 40Z" id="Ellipse-Copy" fill="#D8315B" fill-rule="evenodd" stroke="none" />
+    </g>
+    <g id="Group-21" transform="translate(14.699951 14)">
+      <g id="Group-20" transform="translate(3.9000244 0)">
+        <g id="Group-17">
+          <path d="M2.24085 10.6493L0 8.40845" id="New-shape-Copy-8" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" />
+          <path d="M38.9907 10.6493L41.6797 8.40845" id="New-shape-Copy-12" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" />
+          <path d="M20.6036 0L20.6036 4.28518" id="New-shape-Copy-11" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" />
+        </g>
+        <g id="Group-17-Copy" transform="matrix(-1 2.5351817E-06 -2.5351817E-06 -1 41.67981 51.99951)">
+          <path d="M2.24085 10.6473L0 8.40649" id="New-shape-Copy-8" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" />
+          <path d="M38.9907 10.6473L41.6797 8.40649" id="New-shape-Copy-12" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" />
+          <path d="M21.154 0L21.154 4.28518" id="New-shape-Copy-11" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" />
+        </g>
+      </g>
+      <g id="Group-19" transform="translate(0 12.962524)">
+        <path d="M6.58216 6.63757L8.5166 10.5572L12.8422 11.1857L9.71216 14.2367L10.4511 18.5448L6.58216 16.5108L2.71328 18.5448L3.45216 14.2367L0.322145 11.1858L4.6477 10.5572L6.58216 6.63757Z" id="Star-Copy" fill="#D3D3D3" fill-opacity="0" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M43.7907 6.67322L45.7251 10.5928L50.0507 11.2214L46.9207 14.2724L47.6596 18.5804L43.7907 16.5464L39.9218 18.5805L40.6607 14.2724L37.5306 11.2214L41.8562 10.5928L43.7907 6.67322Z" id="Star-Copy-2" fill="#D8315B" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <g id="Group-18" transform="translate(11.362427 0)">
+          <path d="M14.0188 0L18.1388 8.34804L27.3515 9.6867L20.6851 16.1847L22.2589 25.3601L14.0188 21.0281L5.77879 25.3602L7.35247 16.1848L0.686111 9.68676L9.89875 8.34806L14.0188 0Z" id="Star" fill="#D3D3D3" fill-opacity="0" fill-rule="evenodd" stroke="#D8315B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M14.181 1L18.0072 8.75255L26.5626 9.99572L20.3718 16.0302L21.8333 24.5511L14.181 20.5281L6.5288 24.5511L7.99023 16.0303L1.7994 9.99578L10.3549 8.75257L14.181 1Z" id="Star-Copy-3" fill="#D3D3D3" fill-opacity="0" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

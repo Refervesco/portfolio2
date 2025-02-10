@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group-5" transform="translate(1 1)">
+    <g id="Group-25-Copy-4">
+      <g id="Group-14-Copy-5">
+        <path d="M0 40C0 17.9086 17.9086 0 40 0C62.0914 0 80 17.9086 80 40C80 62.0914 62.0914 80 40 80C17.9086 80 0 62.0914 0 40Z" id="Ellipse-Copy" fill="#0A2463" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+    <path d="M41.7402 53.9553L59.0625 53.9553" id="Line" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" />
+    <path d="M52.9076 36.115C63.5153 32.9136 61.9037 11.6299 46 21.0001" id="New-shape" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M17.5 53.9556C19.6783 53.9157 21.3301 53.7638 27.5944 53.7638C33.8588 53.7638 39.4046 54.0646 40.4678 54.0619C42.1294 54.0578 46.2913 54.9693 49.9858 48.8644" id="New-shape-2" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M52 44.5001C54.9848 38.4278 51.2858 29.2554 47.7323 26.4467C44.1788 23.638 41.5531 22.7996 36.974 22.906C32.3949 23.0125 29.8743 23.6798 27 27.5001" id="New-shape-3" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" />
+    <path d="M24.2905 30.8224C21.9712 33.6469 20.1513 39.6665 23.6285 45.6482C24.7583 47.5918 27.5568 49.3462 29.7563 51.0954" id="New-shape-4" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" />
+    <path d="M27.5898 24L26.69 27.8975L30.5502 26.7361" id="New-shape-5" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M47.4209 17.9343L45.3012 21.3265L49.3292 21.4851" id="New-shape-5-Copy-2" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M51 51.0001L51 47.0001L47.5 49.0001" id="New-shape-5-Copy" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M57.9058 56.0001L61.2604 53.8216L57.6769 51.9755" id="New-shape-5-Copy-3" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group-16-Copy" transform="translate(1 1)">
+    <g id="Group-12">
+      <path d="M0 40C0 17.9086 17.9086 0 40 0C62.0914 0 80 17.9086 80 40C80 62.0914 62.0914 80 40 80C17.9086 80 0 62.0914 0 40Z" id="Ellipse" fill="#D8315B" fill-rule="evenodd" stroke="none" />
+    </g>
+    <g id="Group" transform="translate(15.810303 19.175415)">
+      <path d="M47.2215 34.7168L29.5288 34.7168L38.3751 8.80957L47.2215 34.7168L47.2215 34.7168Z" id="Vector" fill="#FFFFFF" fill-opacity="0" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" />
+      <path d="M20.2192 7.15788C20.2192 5.36725 21.6708 3.91565 23.4615 3.91565C25.2521 3.91565 26.7037 5.36725 26.7037 7.15788C26.7037 8.94852 25.2521 10.4001 23.4615 10.4001C21.6708 10.4001 20.2192 8.94852 20.2192 7.15788Z" id="Ellipse" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M35.7821 6.50944C35.7821 5.07693 36.9434 3.91565 38.3759 3.91565C39.8084 3.91565 40.9697 5.07693 40.9697 6.50944C40.9697 7.94195 39.8084 9.10323 38.3759 9.10323C36.9434 9.10323 35.7821 7.94195 35.7821 6.50944Z" id="Ellipse-Copy" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M28 42.174L23.83 45.4163C23.83 45.4163 -0.0213791 29.0924 2.39553e-05 13.6424C0.021427 -1.80764 19.3613 -4.81493 23.83 8.13056" id="New-shape-7" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" />
+      <path d="M23.4612 7.80613C23.4612 7.80613 25.572 0.72257 31.5668 0.673281C37.5616 0.623993 38.3755 6.50923 38.3755 6.50923" id="New-shape-10" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" />
+      <path d="M25.4081 33.5142L50.8565 33.5142C50.8565 33.5142 46.6835 42.6044 38.3141 42.5334C29.9446 42.4625 25.4081 33.5142 25.4081 33.5142Z" id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

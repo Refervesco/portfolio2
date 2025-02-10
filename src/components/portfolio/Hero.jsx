@@ -42,9 +42,6 @@ const Hero = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-[32px] mb-16">
             {/* Each section - Width adjusts for mobile */}
             <div className="w-full md:w-[262px]">
-                <div className="bg-black rounded-full w-12 h-12 flex items-center justify-center mb-4">
-                  <img src={leadership} alt="" className="w-10 h-10" />
-                </div>
                 <h2 
                   className="font-roboto text-[24px] md:text-[32px] font-bold text-[#323232] mb-4 leading-tight"
                 >
@@ -58,9 +55,6 @@ const Hero = () => {
 
             {/* Expertise */}
             <div className="w-full md:w-[262px]">
-                <div className="bg-black rounded-full w-12 h-12 flex items-center justify-center mb-4">
-                  <img src={expertise} alt="" className="w-10 h-10" />
-                </div>
                 <h2 
                   className="font-roboto text-[24px] md:text-[32px] font-bold text-[#323232] mb-4 leading-tight"
                 >
@@ -74,9 +68,6 @@ const Hero = () => {
 
             {/* Formation */}
             <div className="w-full md:w-[262px]">
-                <div className="bg-black rounded-full w-12 h-12 flex items-center justify-center mb-4">
-                  <img src={advisory} alt="" className="w-10 h-10" />
-                </div>
                 <h2 
                   className="font-roboto text-[24px] md:text-[32px] font-bold text-[#323232] mb-4 leading-tight"
                 >
@@ -91,8 +82,8 @@ const Hero = () => {
     
           {/* Buttons - Made responsive */}
           <div className="flex flex-col sm:flex-row gap-4">
-              <button className="w-full sm:w-auto px-8 py-3 bg-black text-white rounded">View Portfolio</button>
-              <button className="w-full sm:w-auto px-8 py-3 border border-black rounded">Contact</button>
+            <a href="#portfolio" className="w-full sm:w-auto px-8 py-3 bg-black text-white rounded text-center">View Portfolio</a>
+            <a href="https://www.linkedin.com/in/maxime-vonthron" className="w-full sm:w-auto px-8 py-3 border border-black rounded">Contact</a>
           </div>
         </div>
       </div>

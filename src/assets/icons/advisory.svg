@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group-24-Copy">
+    <g id="Group-23-Copy">
+      <g id="Group-14-Copy-6">
+        <path d="M0 40C0 17.9086 17.9086 0 40 0C62.0914 0 80 17.9086 80 40C80 62.0914 62.0914 80 40 80C17.9086 80 0 62.0914 0 40Z" id="Ellipse-Copy" fill="#0A2463" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+  <g id="Group-4" transform="translate(23.999512 13.887573)">
+    <path d="M16.5447 7.5C16.5447 3.35786 20.676 0 25.7723 0C30.8686 0 34.9999 3.35786 34.9999 7.5C34.9999 11.6421 30.8686 15 25.7723 15C23.6621 15 22.2657 14.306 21.3842 14.25C20.5028 14.194 18.1377 15 18.1377 15C18.1377 15 18.8494 13.2103 18.7622 12.9586C18.675 12.7068 16.5447 11.6421 16.5447 7.5ZM8.18281 16.3192C5.69945 16.3192 3.68628 14.5283 3.68628 12.3192C3.68628 10.11 5.69945 8.31915 8.18281 8.31915C10.6662 8.31915 12.6793 10.11 12.6793 12.3192C12.6793 14.5283 10.6662 16.3192 8.18281 16.3192ZM0.199227 27.936C-0.131965 26.0114 0.00803997 21.9494 0.200023 21.587C0.932871 20.2034 5.166 19.1558 8.15684 19.1558C12.0896 19.1558 15.5299 20.5801 15.8435 21.587C16.4262 23.4582 16.3338 26.0679 15.8435 27.936C15.3531 29.8042 13.8239 31.1823 13.2065 32.9092C12.5891 34.6361 10.9016 47.3298 10.8927 49.4879C10.8839 51.6461 5.23847 51.8031 5.24811 49.4879C5.25775 47.1727 3.66439 34.1641 3.18791 32.9275C2.71143 31.6909 0.530419 29.8607 0.199227 27.936Z" id="Ellipse-Union" fill="#D3D3D3" fill-opacity="0" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" />
+    <g id="Group-2" transform="translate(20.435547 5.5039215)">
+      <g id="Group">
+        <path d="M0 3.96863L2.81226 1.88478L6.06394 3.4824L9.75503 0.0787811" id="New-shape" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M9.79553 0L9.39172 2.37706" id="New-shape-3" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" />
+      </g>
+      <path d="M9.76489 0.00862122L7.099 0.479538" id="New-shape-2" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>

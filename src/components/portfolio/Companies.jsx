@@ -34,9 +34,9 @@ const Companies = () => {
 
   return (
     <div className="w-full bg-white py-32">
-      <div className="max-w-9xl mx-auto px-4 sm:px-6 lg:px-32">
+      <div className="max-w-[1440px] mx-auto px-4 md:px-[60px]">
         <div className="flex flex-col items-center text-center mb-12">
-          <h2 className="max-w-3xl text-3xl font-bold mb-4">
+          <h2 className="max-w-3xl text-4xl font-bold mb-4">
             <span className="relative z-10">The companies I have{' '}</span>
             <span className="relative inline-block">
               <span className="relative z-10">worked for</span>
@@ -81,7 +81,7 @@ const Companies = () => {
         </div>
 
         <div className="flex flex-col items-center gap-6">
-          <div className="max-w-7xl flex flex-wrap justify-center gap-6">
+          <div className="w-full flex flex-wrap justify-center gap-6">
             {logoRow.map((logo) => (
               <LogoBox key={logo.alt} {...logo} />
             ))}

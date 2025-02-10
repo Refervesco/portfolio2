@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0" />
+    </filter>
+  </defs>
+  <g id="Group-14-Copy-4">
+    <path d="M0 30C0 13.4315 13.4315 0 30 0C46.5685 0 60 13.4315 60 30C60 46.5685 46.5685 60 30 60C13.4315 60 0 46.5685 0 30Z" id="Ellipse-Copy" fill="#D8315B" fill-rule="evenodd" stroke="none" />
+  </g>
+  <g id="Group-6" transform="translate(13 10.5)">
+    <g id="Group-4" transform="translate(6.909973 7.375)" filter="url(#filter_1)">
+      <path d="M6.22456 20.6077C6.22456 20.6077 5.28854 18.9718 4.13542 17.5236C2.98231 16.0755 0.379862 13.6078 0.031777 10.3041C-0.316308 7.0003 2.13916 -0.0639474 10.179 0.000437425C18.2188 0.0648222 20.9374 7.18885 20.4008 10.3041C19.8642 13.4193 17.517 15.6516 16.2971 17.5236C15.0773 19.3957 14.09 21.4859 14.09 21.4859L7.09003 23.5112" id="New-shape" fill="none" fill-rule="evenodd" stroke="#FF2E00" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M8.78119 20.8478C8.78119 19.5497 8.80907 17.1672 8.95813 15.8413C9.15052 14.6941 8.95813 13.1421 8.95813 11.5944C8.95813 10.8656 8.46346 8.89471 7.36563 9.10098C6.93895 9.18115 6.89373 9.93207 7.07071 10.2646C7.22866 10.5614 7.81633 10.9473 8.13238 11.0957C9.75105 11.8561 12.9396 12.0377 12.9396 12.0377C12.9396 12.0377 14.6033 12.5566 14.8795 12.0377C15.2805 11.1734 13.3254 10.7608 12.9689 11.0957C12.5827 11.4585 11.9299 13.6311 11.7303 14.6497C11.3643 16.8774 11.7303 18.086 11.7303 19.8503" id="Vector" fill="none" fill-rule="evenodd" stroke="#FF2E00" stroke-width="1" />
+      <path d="M7.09003 26.5492L14.09 24.5239" id="New-shape-2" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="1.5" stroke-linecap="round" />
+      <path d="M7.09003 29.5871L14.09 27.5618" id="New-shape-2-Copy" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="1.5" stroke-linecap="round" />
+      <path d="M8.09003 32.1956L13.09 30.5999C13.09 30.5999 11.1625 32.4282 10.2329 32.5945C9.30323 32.7609 8.09003 32.1956 8.09003 32.1956Z" id="New-shape-2-Copy-2" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <g id="Group-5" filter="url(#filter_1)">
+      <path d="M5.5 5.39551L8.00006 7.7531" id="New-shape" fill="none" fill-rule="evenodd" stroke="#5448C8" stroke-width="1.5" stroke-linecap="round" />
+      <path d="M26 25.823L28.5 28.1806" id="New-shape-Copy" fill="none" fill-rule="evenodd" stroke="#5448C8" stroke-width="1.5" stroke-linecap="round" />
+      <path d="M31 16.7087L34 16.7087" id="New-shape-Copy-2" fill="none" fill-rule="evenodd" stroke="#5448C8" stroke-width="1.5" stroke-linecap="round" />
+      <path d="M0 16.7373L3.00003 16.7373" id="New-shape-Copy-5" fill="none" fill-rule="evenodd" stroke="#5448C8" stroke-width="1.5" stroke-linecap="round" />
+      <path d="M17 0L17 3.37025" id="New-shape-Copy-3" fill="none" fill-rule="evenodd" stroke="#5448C8" stroke-width="1.5" stroke-linecap="round" />
+      <path d="M26.5 7.72467L29 5.39551" id="New-shape-Copy-4" fill="none" fill-rule="evenodd" stroke="#5448C8" stroke-width="1.5" stroke-linecap="round" />
+      <path d="M5.5 28.1805L8 25.8513" id="New-shape-Copy-6" fill="none" fill-rule="evenodd" stroke="#5448C8" stroke-width="1.5" stroke-linecap="round" />
+    </g>
+  </g>
+</svg>

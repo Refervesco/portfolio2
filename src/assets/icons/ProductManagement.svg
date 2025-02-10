@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group-14-Copy-5">
+    <path d="M0 40C0 17.9086 17.9086 0 40 0C62.0914 0 80 17.9086 80 40C80 62.0914 62.0914 80 40 80C17.9086 80 0 62.0914 0 40Z" id="Ellipse-Copy" fill="#0A2463" fill-rule="evenodd" stroke="none" />
+  </g>
+  <g id="Group-2-Copy" transform="translate(20 24)">
+    <path d="M39.9999 1.10598C39.9999 1.10598 19.1391 -0.400824 13.6559 0.103128C7.93473 1.78175 0.809753 6.64489 0.484192 7.6247C8.48003 5.06175 39.9999 1.10598 39.9999 1.10598Z" id="New-shape" fill="#FEA82F" fill-opacity="0" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M0.518832 7.66069C-0.67159 13.3872 -0.456816 30.4125 8.26484 31.7297C16.9864 33.047 39.9748 32.464 39.9748 32.464L39.9748 27.1783L39.9748 19.6952C39.9748 19.6952 34.9148 19.3625 35.5842 15.1823C36.2536 11.0021 37.8796 11.2333 39.9748 10.6693C40.0119 8.22491 39.8974 4.33569 39.9748 1.14197C39.3463 1.11001 39.9748 1.14196 39.9748 1.14196C39.9748 1.14196 9.63688 3.37906 0.518832 7.66069Z" id="New-shape-Copy" fill="#F8C822" fill-opacity="0" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M15.3445 15.5389C15.3445 13.3877 17.041 11.6439 19.1339 11.6439C21.2267 11.6439 22.9233 13.3877 22.9233 15.5389C22.9233 17.69 21.2267 19.4338 19.1339 19.4338C17.041 19.4338 15.3445 17.69 15.3445 15.5389Z" id="Ellipse-2" fill="#FEA82F" fill-opacity="0" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" />
+    <path d="M28.6072 22.3552C28.6072 20.7418 29.8796 19.4339 31.4492 19.4339C33.0188 19.4339 34.2913 20.7418 34.2913 22.3552C34.2913 23.9685 33.0188 25.2764 31.4492 25.2764C29.8796 25.2764 28.6072 23.9685 28.6072 22.3552Z" id="Ellipse-2-Copy-2" fill="#FEA82F" fill-opacity="0" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" />
+    <path d="M9.6604 25.2764C9.6604 23.663 10.9328 22.3551 12.5024 22.3551C14.0721 22.3551 15.3445 23.663 15.3445 25.2764C15.3445 26.8897 14.0721 28.1976 12.5024 28.1976C10.9328 28.1976 9.6604 26.8897 9.6604 25.2764Z" id="Ellipse-2-Copy-3" fill="#FEA82F" fill-opacity="0" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" />
+    <path d="M28.6072 9.20952C28.6072 7.86506 29.6675 6.77516 30.9755 6.77516C32.2836 6.77516 33.3439 7.86506 33.3439 9.20952C33.3439 10.554 32.2836 11.6439 30.9755 11.6439C29.6675 11.6439 28.6072 10.554 28.6072 9.20952Z" id="Ellipse-2-Copy" fill="#FEA82F" fill-opacity="0" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" />
+    <path d="M5.87091 15.5391C5.87091 14.4635 6.71919 13.5916 7.76561 13.5916C8.81202 13.5916 9.6603 14.4635 9.6603 15.5391C9.6603 16.6146 8.81202 17.4865 7.76561 17.4865C6.71919 17.4865 5.87091 16.6146 5.87091 15.5391Z" id="Ellipse-2-Copy-4" fill="#FEA82F" fill-opacity="0" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1.5" />
+  </g>
+</svg>
