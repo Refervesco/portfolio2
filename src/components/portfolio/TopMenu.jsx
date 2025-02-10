@@ -31,8 +31,8 @@ const TopMenu = () => {
   const menuItems = [
     { text: 'Home', href: '#' },
     { text: 'Portfolio', href: '#portfolio' },
-    { text: 'About', href: '#' },
-    { text: 'Contact', href: '#' }
+    //{ text: 'About', href: '#' },
+    { text: 'Contact', href: 'https://www.linkedin.com/in/maxime-vonthron' }
   ];
 
   return (
@@ -79,11 +79,12 @@ const TopMenu = () => {
                     <img src={jaflag} alt="Switch to Japanese" className="w-6 h-6" />
                   </button>
                   <button className="flex-shrink-0">
-                    <img src={enflag} alt="Switch to English" className="w-6 h-6" />
+                    <img src={frflag} alt="Switch to French" className="w-6 h-6" />
                   </button>
                 </div>
-                <button onClick={() => setIsLanguageOpen(!isLanguageOpen)} className="flex-shrink-0">
-                  <img src={frflag} alt="Current Language" className="w-6 h-6" />
+                  {/*<button onClick={() => setIsLanguageOpen(!isLanguageOpen)} className="flex-shrink-0">   This is the normal line when language switched is activated*/}
+                  <button onClick={() => setIsLanguageOpen(isLanguageOpen)} className="flex-shrink-0">
+                  <img src={enflag} alt="Current Language" className="w-6 h-6" />
                 </button>
               </div>
             </div>
@@ -92,8 +93,9 @@ const TopMenu = () => {
             <div className="md:hidden flex items-center gap-4" ref={mobileMenuRef}>
               {/* Language Switcher for Mobile */}
               <div className="flex items-center">
-                <button onClick={() => setIsLanguageOpen(!isLanguageOpen)} className="flex-shrink-0">
-                  <img src={frflag} alt="Current Language" className="w-6 h-6" />
+                {/*<button onClick={() => setIsLanguageOpen(!isLanguageOpen)} className="flex-shrink-0">   This is the normal line when language switched is activated*/}
+                <button onClick={() => setIsLanguageOpen(isLanguageOpen)} className="flex-shrink-0">
+                  <img src={enflag} alt="Current Language" className="w-6 h-6" />
                 </button>
               </div>
               

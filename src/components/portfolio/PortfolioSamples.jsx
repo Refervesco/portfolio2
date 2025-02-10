@@ -12,28 +12,32 @@ const PortfolioSamples = () => {
 
   const samples = [
     {
-      title: 'Sony XCI-NPR',
-      category: 'Semiconductors',
-      image: sonyImage,
-      description: 'The Sony XCI-NPR is a B2B highly integrated AI camera system, designed for Access Control applications.'
+        title: 'Webex by NTT',
+        category: 'Conferencing',
+        image: webexImage,
+        description: 'Webex by NTT is a Software as a Service and Cloud Conferencing product for the Unified Communications industry.',
+        source: 'https://www.refervesco.com/portfolio-webex.php'
     },
     {
       title: 'Honda Roadsync',
       category: 'Mobility',
       image: hondaImage,
-      description: 'Crafted the next generation of connected mobility for Honda. Designing, building & running B2C apps, IoT and SaaS for Honda.'
+      description: 'Crafted the next generation of connected mobility for Honda. Designing, building & running B2C apps, IoT and SaaS for Honda.',
+      source: 'https://www.refervesco.com/portfolio-drivemode.php'
     },
     {
-      title: 'Webex by NTT',
-      category: 'Conferencing',
-      image: webexImage,
-      description: 'Software as a Service and Cloud Conferencing products in the UCaaS industry.'
+        title: 'Sony XCI-NPR',
+        category: 'Semiconductors',
+        image: sonyImage,
+        description: 'The Sony XCI-NPR is a B2B highly integrated AI camera system, designed for Access Control applications.',
+        source: 'https://www.refervesco.com/portfolio-sony.php'
     },
     {
       title: 'Hospitality Tracker',
       category: 'Web SaaS',
       image: hospitalityImage,
-      description: 'The d-edge hospitality tracker showcase the room booking trends of the hospitality sector in europe.'
+      description: 'The d-edge hospitality tracker showcase the room booking trends of the hospitality sector in europe.',
+      source: 'https://www.refervesco.com/portfolio-sony.php'
     }
   ];
 
@@ -60,9 +64,9 @@ const PortfolioSamples = () => {
             {samples.map((sample, index) => (
               <div
                 key={sample.title}
-                className="flex-shrink-0 flex flex-col w-[360px] min-w-[360px] h-[524px] rounded-xl bg-white transition-all duration-300"
+                className="flex-shrink-0 flex flex-col w-[370px] min-w-[370px] h-[524px] rounded-xl bg-white transition-all duration-300"
                 style={{
-                  transform: `translateX(-${currentIndex * 406}px)`,
+                  transform: `translateX(-${currentIndex * 396}px)`,
                   boxShadow: '0px 0px 12px 0px rgba(0, 0, 0, 0.25)'
                 }}
               >
@@ -81,10 +85,9 @@ const PortfolioSamples = () => {
                     </span>
                   </div>
                   <p className="text-gray-600 mb-4">{sample.description}</p>
-                  <button className="flex items-center text-gray-900 font-medium">
-                    Learn more
-                    <ChevronRight className="ml-2 h-4 w-4" />
-                  </button>
+                    <a href={sample.source} className="flex items-center text-gray-900 font-medium">Learn more</a>
+                    {/*<ChevronRight className="ml-2 h-4 w-4" />
+                  </button>*/}
                 </div>
               </div>
             ))}

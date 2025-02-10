@@ -31,7 +31,7 @@ const Hero = () => {
           >
             <p>Hi, I'm Maxime!</p>
             <p>
-              I'm an accomplished trilingual product leader and advisor (<a href="#" className="underline">ENTP-type</a>), <br className="hidden md:block" />with 18 years of expertise in crafting tech products that resonates with users.
+              I'm an accomplished transformational product leader and advisor (<a href="https://www.truity.com/blog/personality-type/entp" className="underline">ENTP-type</a>), <br className="hidden md:block" />with 18 years of experience in crafting tech products that resonates with users.
             </p>
             <p>
               I'm passionate guiding and inspiring teams to deliver innovative, user-centric solutions.
@@ -45,25 +45,26 @@ const Hero = () => {
                 <h2 
                   className="font-roboto text-[24px] md:text-[32px] font-bold text-[#323232] mb-4 leading-tight"
                 >
-                  Leadership Produit
+                  Product Leadership
                 </h2>
                 <p className="mb-4 font-roboto text-[16px] text-black" style={{ opacity: 0.6 }}>
-                  De l'Ingénierie à CPO : 15+ ans d'expertise produit
+                  From Engineering to CPO: 15+ years of product expertise including UX and Generative AI.
                 </p>
-                <a href="#" className="text-gray-500">Learn more →</a>
+                {/*<a href="#" className="text-gray-500">Learn more →</a>*/}
             </div>
+            
 
             {/* Expertise */}
             <div className="w-full md:w-[262px]">
                 <h2 
                   className="font-roboto text-[24px] md:text-[32px] font-bold text-[#323232] mb-4 leading-tight"
                 >
-                  Expertise internationale
+                  International Expertise
                 </h2>
                 <p className="mb-4 font-roboto text-[16px] text-black" style={{ opacity: 0.6 }}>
-                  Leadership d'équipes en France et au Japon. Trilingue FR/EN/JP
+                  Team leadership in France and Japan. Trilingual FR/EN/JP.
                 </p>
-                <a href="#" className="text-gray-500">Learn more →</a>
+                {/*<a href="#" className="text-gray-500">Learn more →</a> -->*/}
             </div>
 
             {/* Formation */}
@@ -71,19 +72,19 @@ const Hero = () => {
                 <h2 
                   className="font-roboto text-[24px] md:text-[32px] font-bold text-[#323232] mb-4 leading-tight"
                 >
-                  Formation & conseil
+                  Advisory & Education
                 </h2>
                 <p className="mb-4 font-roboto text-[16px] text-black" style={{ opacity: 0.6 }}>
-                  Partage d'expertise en stratégie produit et transformation digitale
+                  Sharing expertise in product strategy and digital transformation.
                 </p>
-                <a href="#" className="text-gray-500">Learn more →</a>
+                {/*<a href="#" className="text-gray-500">Learn more →</a>*/}
             </div>
           </div>
     
           {/* Buttons - Made responsive */}
           <div className="flex flex-col sm:flex-row gap-4">
             <a href="#portfolio" className="w-full sm:w-auto px-8 py-3 bg-black text-white rounded text-center">View Portfolio</a>
-            <a href="https://www.linkedin.com/in/maxime-vonthron" className="w-full sm:w-auto px-8 py-3 border border-black rounded">Contact</a>
+            <a href="https://www.linkedin.com/in/maxime-vonthron" className="w-full sm:w-auto px-8 py-3 border border-black rounded text-center">Contact</a>
           </div>
         </div>
       </div>
