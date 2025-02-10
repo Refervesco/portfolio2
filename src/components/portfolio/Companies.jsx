@@ -90,7 +90,7 @@ const Companies = () => {
 
         <div className="flex justify-center mt-12">
           <button className="px-8 py-3 bg-black text-white rounded">
-            Career timeline
+            Contact me {/*Career timeline*/}
           </button>
         </div>
       </div>
